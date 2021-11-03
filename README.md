@@ -11,7 +11,6 @@
 - 🥅 2020 Goals: Get better
 # Languages and Tools:
 
-[<img align="left" alt="Github" width="50px" src="https://img.icons8.com/ios-glyphs/2x/github.png"/>][github]
 [<img align="left" alt="Git" width="50px" src="https://img.icons8.com/color/2x/git.png" />][git]
 [<img align="left" alt="Python" width="50px" src="https://img.icons8.com/fluency/2x/python.png" />][python]
 [<img align="left" alt="Java" width="50px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />][java]
