@@ -39,7 +39,7 @@
 <br/>
 
 # Donnations
-J'aime créer des programmes gratuitement. Si vous souhaitez donner de l'argent pour aider un étudiant comme moi, ce serait très apprécié !
+I like to create programs for free. If you want to give money to help a student like me, it would be very much appreciated!‎
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/MatisHerrmann)
 
