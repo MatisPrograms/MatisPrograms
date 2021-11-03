@@ -1,6 +1,6 @@
 # Hello, my name is Matis - aka [Swaz][github] 👋
 
-[![Website](https://img.shields.io/website?label=MatisPrograms.com&style=for-the-badge&url=https://github.com/MatisPrograms)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=MatisPrograms.com&style=for-the-badge&url=https://github.com/MatisPrograms)](github)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MatisHerrmann?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=MatisHerrmann)
 
 ## I'm a Engineering Studient
