@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=MatisPrograms.com&style=for-the-badge&url=https://github.com/MatisPrograms)](github)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MatisHerrmann?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=MatisHerrmann)
 
-## I'm a Engineering Studient
+## I'm an Engineering Student
 
 - 🔭 I just started my computer science engineering studies !
 - 🌱 I’m currently learning everything related to computer science 🤣
