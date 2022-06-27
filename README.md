@@ -20,7 +20,7 @@
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://img.icons8.com/fluency/2x/visual-studio-code-2019.png" />][vs]
 [<img align="left" alt="HTML5" width="50px" src="https://img.icons8.com/color/2x/html-5.png" />][html]
 [<img align="left" alt="CSS3" width="50px" src="https://img.icons8.com/color/2x/css3.png" />][css]
-[<img align="left" alt="Agular" width="50px" src="https://img.icons8.com/color/344/angularjs.png 2x" />][angular]
+[<img align="left" alt="Agular" width="50px" src="https://img.icons8.com/color/344/angularjs.png" />][angular]
 [<img align="left" alt="Terminal" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />][termianl]
 [<img align="left" alt="Terminal" width="50px" src="https://docs.microsoft.com/fr-fr/powershell/media/index/ps_black_128.svg" />][powershell]
 
