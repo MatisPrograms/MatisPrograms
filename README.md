@@ -42,6 +42,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MatisPrograms&count_private=true&show_icons=true" />
 </picture>
 
+<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatisPrograms&hide=scss&langs_count=10&theme=dark"
   media="(prefers-color-scheme: dark)"
